@@ -9,5 +9,4 @@ echo $lastName;
 
 echo "hello, world, $firtstName.' '.$lastName";
 
-
 ?>
